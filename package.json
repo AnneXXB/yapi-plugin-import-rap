@@ -12,9 +12,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wxxcarl/yapi-plugin-import-rap.git"
+    "url": "git+https://github.com/AnneXXB/yapi-plugin-import-rap.git"
   },
   "scripts": {
-    "dev": "node index.js"
-  }
+    "dev": "node index.js",
+    "start": "node server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/AnneXXB/yapi-plugin-import-rap/issues"
+  },
+  "homepage": "https://github.com/AnneXXB/yapi-plugin-import-rap#readme",
+  "author": "AnneXXB",
+  "license": "ISC"
 }
