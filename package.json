@@ -1,6 +1,6 @@
 {
   "key": "yapi-plugin",
-  "name": "yapi-plugin-import-custom-rap",
+  "name": "yapi-plugin-import-cmft-rap",
   "version": "0.1.0",
   "description": "a yapi plugin for import projects from rap1",
   "main": "index.js",
